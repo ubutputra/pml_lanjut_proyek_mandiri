@@ -1,4 +1,4 @@
-# pml_lanjut_proyek_mandiri
+# PML Lanjut Proyek Mandiri
 Nama : Ubut Eka Putra
 
 Proyek Mandiri PML
