@@ -1,4 +1,6 @@
 # pml_lanjut_proyek_mandiri
+Nama : Ubut Eka Putra
+
 Proyek Mandiri PML
 
 Program dijalankan di Google Collaborator (drive.google.com)
