@@ -10,3 +10,5 @@ Program dijalankan di Google Collaborator (drive.google.com)
 Penamaan File
 - EMD_*.ipynb (Menggunakan LSTM + EMD Model)
 - _*.ipynb (Hanya LSTM)
+
+Dalam file EMD_*.ipynb terdapat variabel "idx" dimana menyatakan IMF yang kita akan apply di model, imf berjumlah 7, maka idx diisi dari rentang 0-6
