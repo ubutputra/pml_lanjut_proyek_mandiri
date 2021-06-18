@@ -2,6 +2,7 @@
 Nama : Ubut Eka Putra
 
 Proyek Mandiri PML
+Deskripsi : Prediksi Harga saham dengan menggunakan Model LSTM dan dekomposisi frekuensi EMD(Empirical Mode Decomposition)
 
 Program dijalankan di Google Collaborator (drive.google.com)
 
